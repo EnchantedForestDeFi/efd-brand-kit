@@ -12,7 +12,7 @@ The EFD pantheon draws on Norse mythology and Scandinavian folklore. Characters 
 |---|---|---|---|
 | **Draupnir** | Treasury drip mechanism (object / ring — drips 8 identical rings every 9 nights, mapped to RATR's 10% block-subsidy treasury drip) | ✅ **ART SHIPPED** | [`draupnir/`](draupnir/) |
 | **Idunn** | Treasury holdings steward (Vanaheim orchard — tends what Draupnir drips) | ✅ **ART SHIPPED** | [`idunn/`](idunn/) |
-| **Freyja** | LP / DeFi / dynamic-wealth patron (Vanaheim, Fólkvangr) | Placeholder | `freyja/` |
+| **Freyja** | LP / DeFi / dynamic-wealth patron (Vanaheim, Fólkvangr — Vanir co-lead with Idunn) | ✅ **ART SHIPPED** | [`freyja/`](freyja/) |
 | **The Norns** | Chain history / consensus state (Yggdrasil's root well) | Phase 2 | `norns/` (triptych + individuals) |
 | **Hel** | Slashed-MN / consequence-keeper (Helheim) | Phase 2 | `hel/` |
 | **Skadi** | Cold storage / air-gap (Niflheim mountains) | Phase 3 | `skadi/` |
@@ -38,6 +38,24 @@ The EFD pantheon draws on Norse mythology and Scandinavian folklore. Characters 
 **EFD meaning:** Where Draupnir is the *mechanism* (consensus-encoded automatic drip), Idunn is the *steward* (the role of tending the accumulated treasury). She is generational — the steady hand who has tended the orchard through many seasons, knows which apples to harvest now and which to leave to ripen, and does not rush. In EFD lore, Idunn appears wherever the treasury's accumulated holdings are being discussed: governance proposals to spend reserves, long-term Elexium LP positions, gauge-vote allocations, monthly treasury reports. She is the human (or governance-collective) face of decisions Draupnir cannot make on his own.
 
 The Idunn–Draupnir pair is the full treasury narrative: **the mechanism cannot choose; the steward chooses what is harvested.**
+
+---
+
+## Freyja (active-wealth patron, Vanir co-lead)
+
+<img src="freyja/freyja-512.png" width="400" alt="Freyja — Norse Vanir goddess of wealth, seiðr, war, and love, equal in power to Odin"/>
+
+**Style:** Same illuminated-manuscript family as Draupnir and Idunn — matched Celtic frame with trefoil corners + braided side panels. A confident adult woman standing tall in three-quarter view, looking forward and slightly past the viewer (not making eye contact — she is looking at what is coming). Golden-blonde hair in long Norse braids. She wears the **Brísingamen** — heavy intricate gold necklace with red garnet stones, prominently visible — over a Vanir green-and-russet underdress. A massive **falcon-feather cloak** drapes from her shoulders in russet-brown plumage with cream edges. A single **gold tear** marks one cheek (her mythological grief, rendered as treasure). At her feet sit **two lynx-sized cats** — Bygul and Tregul — with tufted ears and tawny spotted coats, at attention as companions, not pets.
+
+**EFD meaning:** Where Idunn is the *steward* of accumulated holdings (slow, careful, generational), Freyja is the *active deployer* (fast, market-bound, fierce). She is the role of putting treasury or personal wealth INTO motion — LP positions, gauge votes on Elexium, bribes for vote-buying, ve(3,3) lock decisions. The mythological Freyja taught Odin seiðr (Norse magic); the EFD Freyja embodies the seiðr-style market intuition that LP providers and gauge voters need.
+
+The full **treasury trio** is now in the brand kit:
+
+- **Draupnir** — the *mechanism* that drips (consensus-encoded, automatic, no human decision)
+- **Idunn** — the *steward* who tends the orchard (decides what to harvest, what to leave to ripen)
+- **Freyja** — the *deployer* who puts wealth into motion (LP, gauge votes, bribes — the active side of Vanaheim DeFi)
+
+Together they tell the whole treasury story: **what comes in, what is kept, what is sent out to work.**
 
 ---
 
