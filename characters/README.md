@@ -8,14 +8,24 @@ The EFD pantheon draws on Norse mythology and Scandinavian folklore. Characters 
 
 ## Released characters (phased rollout)
 
-| Character | Domain | Phase | Folder |
+| Character | Domain | Status | Folder |
 |---|---|---|---|
-| **Draupnir** | Treasury drip mechanism (object / ring) | Initial | `draupnir/` |
-| **Idunn** | Treasury holdings steward (Vanaheim orchard) | Initial | `idunn/` |
-| **Freyja** | LP / DeFi / dynamic-wealth patron (Vanaheim, Fólkvangr) | Initial | `freyja/` |
+| **Draupnir** | Treasury drip mechanism (object / ring — drips 8 identical rings every 9 nights, mapped to RATR's 10% block-subsidy treasury drip) | ✅ **ART SHIPPED** | [`draupnir/`](draupnir/) |
+| **Idunn** | Treasury holdings steward (Vanaheim orchard) | Placeholder | `idunn/` |
+| **Freyja** | LP / DeFi / dynamic-wealth patron (Vanaheim, Fólkvangr) | Placeholder | `freyja/` |
 | **The Norns** | Chain history / consensus state (Yggdrasil's root well) | Phase 2 | `norns/` (triptych + individuals) |
 | **Hel** | Slashed-MN / consequence-keeper (Helheim) | Phase 2 | `hel/` |
 | **Skadi** | Cold storage / air-gap (Niflheim mountains) | Phase 3 | `skadi/` |
+
+---
+
+## Draupnir (the first character shipped)
+
+<img src="draupnir/draupnir-512.png" width="400" alt="Draupnir — Odin's ring that drips eight identical golden rings every nine nights"/>
+
+**Style:** Illuminated-manuscript / engraved-woodcut. A substantial gold ring with intricate Norse knotwork engraving on the band; from the ring's interior, smaller golden droplet-rings are forming and dripping as the magical duplication occurs. Aged parchment background with subtle craquelure texture; ornate Celtic knotwork frame with trefoil corners and braided side panels in gold and deep blue accents.
+
+**EFD meaning:** Draupnir is the treasury's *mechanism*, not its steward. The mythological ring drips 8 identical rings every 9 nights without human decision — exactly how RATR's 10% block-subsidy treasury allocation works (consensus-encoded, no per-block discretionary vote, just continuous accumulation). Draupnir appears in EFD's lore wherever the treasury drip itself is being referenced; Idunn (the *steward*) appears wherever the treasury's accumulated holdings are being tended.
 
 ---
 
