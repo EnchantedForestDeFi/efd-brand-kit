@@ -22,6 +22,22 @@ https://raw.githubusercontent.com/EnchantedForestDeFi/efd-brand-kit/main/logos/w
 
 ---
 
+## The pantheon (treasury trio)
+
+EFD's brand uses a Norse-mythology character roster. The first three characters — the **treasury trio** — are shipped together. More characters are queued for phased rollout (Norns triptych, Hel, Skadi).
+
+| Draupnir | Idunn | Freyja |
+|:---:|:---:|:---:|
+| <img src="characters/draupnir/draupnir-256.png" width="220" alt="Draupnir"/> | <img src="characters/idunn/idunn-256.png" width="220" alt="Idunn"/> | <img src="characters/freyja/freyja-256.png" width="220" alt="Freyja"/> |
+| **The mechanism** | **The steward** | **The deployer** |
+| Odin's ring that drips eight identical rings every nine nights — mapped to RATR's automatic 10% block-subsidy treasury drip (consensus-encoded, no human decision) | Norse Vanir goddess tending the orchard of immortality apples — mapped to the role of tending accumulated treasury holdings (decides what to harvest, what to ripen) | Norse Vanir goddess of wealth, seiðr, war, and love — mapped to the role of putting wealth into motion (LP, gauge votes, bribes, ve(3,3) locks) |
+
+> Together they tell the whole treasury story: **what comes in, what is kept, what is sent out to work.**
+
+See [`characters/`](characters/) for full sheets + all sizes + the queue for Phase 2-3 additions.
+
+---
+
 ## What's in this repo
 
 | Subtree | Contents |
