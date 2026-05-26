@@ -1,0 +1,8 @@
+{
+  "id": "<WRATR_MAINNET_CONTRACT_ID_FROM_DEPLOY>",
+  "name": "Wrapped Ratatoskr",
+  "symbol": "wRATR",
+  "decimals": 8,
+  "description": "Wrapped Ratatoskr (wRATR) is the bridged representation of native RATR on Alephium, backed 1:1 via the Ratatoskr Bridge.",
+  "logoURI": "https://raw.githubusercontent.com/EnchantedForestDeFi/efd-brand-kit/main/logos/wratr/wratr-mark-256.png"
+}

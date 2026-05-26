@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Adobe / design tool working files (keep finals committed; ignore working files)
+*.psd
+*.ai
+*.afdesign
+*.afphoto
+*.sketch
+*.fig
+
+# But explicitly KEEP .svg + final .png + .jpg / .webp
+!*.svg
+!*.png
+!*.jpg
+!*.webp
+
+# Temp / build outputs
+*.tmp
+*.bak
+*~
