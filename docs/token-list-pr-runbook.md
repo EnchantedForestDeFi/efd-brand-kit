@@ -95,7 +95,7 @@ wRATR is the Alephium-side wrapped representation of native RATR, backed 1:1 by 
 
 **Links:**
 - EFD website: https://enchantedforestdefi.com
-- RATR explorer: https://ratrexplorer.efd.com
+- RATR explorer: https://ratrexplorer.enchantedforestdefi.com
 - Bridge: [link added once UI is live]
 
 Thanks for your time reviewing!

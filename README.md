@@ -100,8 +100,8 @@ Want to use a logo and have a question about attribution or co-branding? Open an
 
 - **Website:** https://enchantedforestdefi.com
 - **Ratatoskr (RATR):** Mainnet launches 2026-06-01 00:00 UTC
-- **Block explorer:** https://ratrexplorer.efd.com
-- **Mining pool (EU):** https://ratatoskr.efd.com/pool
+- **Block explorer:** https://ratrexplorer.enchantedforestdefi.com
+- **Mining pool (EU):** https://pool.enchantedforestdefi.com
 - **Discord:** Link added at launch
 - **BitcoinTalk thread:** Link added at launch
 
