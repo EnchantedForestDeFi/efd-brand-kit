@@ -11,7 +11,7 @@ The EFD pantheon draws on Norse mythology and Scandinavian folklore. Characters 
 | Character | Domain | Status | Folder |
 |---|---|---|---|
 | **Draupnir** | Treasury drip mechanism (object / ring — drips 8 identical rings every 9 nights, mapped to RATR's 10% block-subsidy treasury drip) | ✅ **ART SHIPPED** | [`draupnir/`](draupnir/) |
-| **Idunn** | Treasury holdings steward (Vanaheim orchard) | Placeholder | `idunn/` |
+| **Idunn** | Treasury holdings steward (Vanaheim orchard — tends what Draupnir drips) | ✅ **ART SHIPPED** | [`idunn/`](idunn/) |
 | **Freyja** | LP / DeFi / dynamic-wealth patron (Vanaheim, Fólkvangr) | Placeholder | `freyja/` |
 | **The Norns** | Chain history / consensus state (Yggdrasil's root well) | Phase 2 | `norns/` (triptych + individuals) |
 | **Hel** | Slashed-MN / consequence-keeper (Helheim) | Phase 2 | `hel/` |
@@ -26,6 +26,18 @@ The EFD pantheon draws on Norse mythology and Scandinavian folklore. Characters 
 **Style:** Illuminated-manuscript / engraved-woodcut. A substantial gold ring with intricate Norse knotwork engraving on the band; from the ring's interior, smaller golden droplet-rings are forming and dripping as the magical duplication occurs. Aged parchment background with subtle craquelure texture; ornate Celtic knotwork frame with trefoil corners and braided side panels in gold and deep blue accents.
 
 **EFD meaning:** Draupnir is the treasury's *mechanism*, not its steward. The mythological ring drips 8 identical rings every 9 nights without human decision — exactly how RATR's 10% block-subsidy treasury allocation works (consensus-encoded, no per-block discretionary vote, just continuous accumulation). Draupnir appears in EFD's lore wherever the treasury drip itself is being referenced; Idunn (the *steward*) appears wherever the treasury's accumulated holdings are being tended.
+
+---
+
+## Idunn (treasury holdings steward)
+
+<img src="idunn/idunn-512.png" width="400" alt="Idunn — Norse goddess who tends the golden apples of immortality, mapped to EFD's treasury holdings steward"/>
+
+**Style:** Same illuminated-manuscript / engraved-woodcut family as Draupnir — matched Celtic frame with trefoil corners + braided side panels in gold and deep-blue accents. A mature woman with red-brown hair tied back, wearing a russet-and-amber Vanir working dress with sleeves rolled to the elbows. She holds a single red-gold apple cupped in her palm at chest height, looking down at it with quiet care. Behind her, an orchard of apple-laden branches; at her feet, a wicker basket half-full of harvested fruit. Aged parchment background with craquelure.
+
+**EFD meaning:** Where Draupnir is the *mechanism* (consensus-encoded automatic drip), Idunn is the *steward* (the role of tending the accumulated treasury). She is generational — the steady hand who has tended the orchard through many seasons, knows which apples to harvest now and which to leave to ripen, and does not rush. In EFD lore, Idunn appears wherever the treasury's accumulated holdings are being discussed: governance proposals to spend reserves, long-term Elexium LP positions, gauge-vote allocations, monthly treasury reports. She is the human (or governance-collective) face of decisions Draupnir cannot make on his own.
+
+The Idunn–Draupnir pair is the full treasury narrative: **the mechanism cannot choose; the steward chooses what is harvested.**
 
 ---
 
