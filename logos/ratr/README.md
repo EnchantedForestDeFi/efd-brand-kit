@@ -20,7 +20,7 @@ The wRATR family (`../wratr/`) is derived from this base by adding an Alephium r
 | `ratr-mark.svg` | Vector master — use whenever SVG is supported |
 | `ratr-wordmark-h-1024x256.png` | Horizontal mark + wordmark (header use) |
 | `ratr-wordmark-stacked-512.png` | Stacked mark + wordmark (square / portrait contexts) |
-| `dark-variants/` | Same family on dark background (for dark social, dark Discord embeds) |
+| [`dark-variants/`](dark-variants/) | **Dark rope-framed variant** — RATR mark on deep forest-green with rope + oak Celtic-corner frame (the mark carried on the RATR web wallet). For dark social, dark Discord, dark headers |
 
 ---
 
