@@ -11,7 +11,9 @@ These logos are included for **operational reference and integration documentati
 | Location | Source | License | EFD use case |
 |---|---|---|---|
 | [`alephium/`](alephium/) | [github.com/alephium/alephium-brand-guide](https://github.com/alephium/alephium-brand-guide) | **LGPL-3.0** (NOT CC-BY-4.0) | wRATR bridge to Alephium; Elexium DEX integration; bridge UI; press materials |
-| `krgn-mark-256.png` *(pending)* | Per Kerrigan project (eq192,7 GPU mining) | Per upstream | EFD operates KRGN pool (vps3 + vps5); GPU mining branding |
+| [`base/`](base/) | [github.com/base/brand-kit](https://github.com/base/brand-kit) | ⚠️ **none declared** — no LICENSE file; terms are in their brand guide PDF | wRATR bridge to Base; chain-variant banner; "Available on Base" identification |
+| [`bnb/`](bnb/) | [bnbchain.org/en/brand-guidelines](https://www.bnbchain.org/en/brand-guidelines) | 🚨 **proprietary, APPROVAL-BASED** — registered trademark, no license to mirror | wRATR bridge to BNB Smart Chain; chain-variant banner. **Read that folder's README before any use** |
+| `krgn-mark-256.png` *(pending)* | Per Kerrigan project (eq192,7 GPU mining) | Per upstream | EFD operates a KRGN mining pool; GPU mining branding |
 | `nutty-mark-256.png` *(pending)* | Adam's project (Alephium fungible token, fixed 10K supply) | Per upstream | Future wRATR/NUTTY LP pair on Elexium |
 | (others) | (added as needed) | (to verify per project) | |
 
